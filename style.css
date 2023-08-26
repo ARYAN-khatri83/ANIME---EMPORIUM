@@ -180,6 +180,7 @@ html,body{
     width: 100%;
     background-color: black;
     align-items: center;
+    padding-bottom:10vw;
 }
 
 #about img{
@@ -198,7 +199,7 @@ html,body{
     opacity: .6;
     margin-bottom: 10px;
     font-size: 18px;
-    padding-top: 200px;
+    padding-bottom: 10vw;
 }
 
 #textabout p {
